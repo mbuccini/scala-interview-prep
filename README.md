@@ -5,7 +5,7 @@ for our Scala interview questions.
 
 ```
 $ java -version
-$ git clone git@github.com:stripe/scala-interview-prep.git
+$ git clone git@github.com:mbuccini/scala-interview-prep.git
 $ cd scala-interview-prep
 $ ./sbt
 > test
