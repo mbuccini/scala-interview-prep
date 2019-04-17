@@ -1,6 +1,6 @@
 name := "scala-interview-prep"
 
-scalaVersion := "2.11.12"
+scalaVersion := "2.12.8"
 
 libraryDependencies ++= Seq(
   "com.google.guava" % "guava" % "16.0.1",
