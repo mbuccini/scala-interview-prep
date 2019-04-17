@@ -1,15 +1,3 @@
-# Motivation
-
-At Stripe, our interview process has some interviews where you write code,
-typically on your personal laptop.
-
-We want to avoid spending a significant portion of the interview getting SBT
-setup on your laptop and waiting for it to download and cache all its
-dependencies. We've created this simple example SBT project to help candidates
-determine if their laptops are setup to write and build Scala, so the
-interviews can be about evaluating the candidate, and not the way their
-environment is setup.
-
 # Getting Ready
 
 If you can run these commands, your development environment is probably ready
