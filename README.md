@@ -1,7 +1,7 @@
 # Getting Ready
 
 If you can run these commands, your development environment is probably ready
-for Stripe's Scala interview questions.
+for our Scala interview questions.
 
 ```
 $ java -version
